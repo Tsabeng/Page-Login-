@@ -1,0 +1,5 @@
+react
+react-dom
+@vitejs/plugin-react
+vite
+react-icons
